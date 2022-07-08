@@ -1,0 +1,7 @@
+class TypeT<T>{
+  TypeT(){
+
+
+  }
+
+}
