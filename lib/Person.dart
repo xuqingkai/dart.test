@@ -1,5 +1,3 @@
-import 'dart:_rti';
-
 class Person{
   String name;
   int age;
